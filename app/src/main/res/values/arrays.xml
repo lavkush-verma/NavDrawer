@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Nav Drawer List Item Strings -->
+    <string-array name="nav_drawer_items">
+        <item>@string/action_settings</item>
+        <item>@string/action_settings</item>
+        <item>@string/action_settings</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_menu_check</item>
+        <item>@drawable/ic_menu_check</item>
+        <item>@drawable/ic_menu_check</item>
+    </array>
+</resources>
